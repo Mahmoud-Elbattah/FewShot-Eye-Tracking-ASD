@@ -28,12 +28,12 @@ The eye-tracking dataset used in this study is publicly available on Figshare:
 
 https://doi.org/10.6084/m9.figshare.20113592
 
-Carette, R., Elbattah, M., Dequen, G., Guérin, J. L., & Cilia, F. (2018). Visualization of eye-tracking patterns in autism spectrum disorder: method and dataset. In Proceedings of the 13th International Conference on Digital Information Management (ICDIM) (pp. 248-253). IEEE.
+Carette, R., Elbattah, M., Dequen, G., Guérin, J. L., & Cilia, F. (2018). Visualization of eye-tracking patterns in autism spectrum disorder: method and dataset. *In Proceedings of the 13th International Conference on Digital Information Management (ICDIM)*. IEEE.
 https://doi.org/10.1109/ICDIM.2018.8846967
 ## Citation
 
 If you use this code in your research, please cite:
 
 Elbattah, M., Cilia, F., & Dequen, G. (2025). Few-Shot Learning with Pretrained Visual
-Embeddings of Eye-Tracking Patterns for Autism Detection. In Proceedings of the IEEE
-International Conference on Big Data. IEEE. https://doi.org/10.1109/BigData66926.2025.11400766
+Embeddings of Eye-Tracking Patterns for Autism Detection. *In Proceedings of the IEEE
+International Conference on Big Data*. IEEE. https://doi.org/10.1109/BigData66926.2025.11400766
