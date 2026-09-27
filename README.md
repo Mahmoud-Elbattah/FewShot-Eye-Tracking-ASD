@@ -37,7 +37,3 @@ If you use this code in your research, please cite:
 Elbattah, M., Cilia, F., & Dequen, G. (2025). Few-Shot Learning with Pretrained Visual
 Embeddings of Eye-Tracking Patterns for Autism Detection. In Proceedings of the IEEE
 International Conference on Big Data. IEEE. https://doi.org/10.1109/BigData66926.2025.11400766
-
-## Disclaimer
-
-This repository is intended for research purposes only. The models are not clinical diagnostic tools.
